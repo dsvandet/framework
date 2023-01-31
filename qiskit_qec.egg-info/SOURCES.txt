@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+qiskit_qec.egg-info/PKG-INFO
+qiskit_qec.egg-info/SOURCES.txt
+qiskit_qec.egg-info/dependency_links.txt
+qiskit_qec.egg-info/requires.txt
+qiskit_qec.egg-info/top_level.txt
