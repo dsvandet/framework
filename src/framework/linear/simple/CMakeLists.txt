@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.12)
+project(Simple)
+
+set(SRC
+    intern/simple.cpp
+
+    simple.hpp
+)
+
+add_library(libsimple
+    STATIC
+    ${SRC}
+)
+
+target_include_directories(libsimple
+    PUBLIC
+    "${CMAKE_CURRENT_SOURCE_DIR}"
+)
+
+# Set prefix to "" since lib is already in project name
+set_target_properties(libsimple PROPERTIES PREFIX "")

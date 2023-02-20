@@ -1,0 +1,3 @@
+/Users/dsvandet/Software/Testing/framework/tests/CMakeFiles/simple-test.dir
+/Users/dsvandet/Software/Testing/framework/tests/CMakeFiles/edit_cache.dir
+/Users/dsvandet/Software/Testing/framework/tests/CMakeFiles/rebuild_cache.dir
